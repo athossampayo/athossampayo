@@ -2,10 +2,13 @@
 ## <img src="https://images.squarespace-cdn.com/content/v1/58f1f97bebbd1aeb69f1482a/1563294631601-ZC8YVSXWZ1UABRWAMNG5/ke17ZwdGBToddI8pDm48kPJXHKy2-mnvrsdpGQjlhod7gQa3H78H3Y0txjaiv_0fDoOvxcdMmMKkDsyUqMSsMWxHk725yiiHCCLfrh8O1z5QHyNOqBUUEtDDsRWrJLTmNhTL1csF4IG5y-qj70Wo08mNhyC0Li-nnGmSWmu-RPzBQHhRD1i-jLysqaC42N26/waving-giraffe.gif" width="100px">
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/athos-sampayo-70a0001b1/)](https://www.linkedin.com/in/athos-sampayo-70a0001b1/)
+[![Gmail Badge](https://img.shields.io/badge/-Email-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:athos.s.sampayo@gmail.com)](mailto:athos.s.sampayo@gmail.com)
 
- 🏃 I'm Athos! I'm passionate about technology 💻 and the open-source community, currently focused on studying Data Science but trying to learn a little bit of everything. I'm currently developing in 📦 Python / Pandas, 🌐 JS / React and 📱 Kotlin, but if you ping me with a new challenge, I'll learn whatever it takes to help!
+ 🏃 I'm Athos! I'm passionate about technology 💻 and the open-source community, currently focused on studying Data Science but trying to learn a little bit of everything.
+ <br>
+ 👨‍💻 I'm currently developing and studying 🐍 Python / Pandas, 🌐 JS / React and 📱 Kotlin, but if you ping me with a new challenge, I'll learn whatever it takes to help!
 
- 🎓  Also, I study Social Sciences at University of São Paulo, Brazil.
+ 🎓 I also study Social Sciences at University of São Paulo, Brazil.
 
 ### TechList
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=Python&logoColor=white)
