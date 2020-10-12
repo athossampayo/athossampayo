@@ -19,4 +19,10 @@
 ![React](https://img.shields.io/badge/-React-3b2e5a?style=flat-square&logo=react&logoColor=white)
 ![VS Code](https://img.shields.io/badge/-VSCode-%23007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
 ### Stats
-[![athossampayo's github stats](https://github-readme-stats.vercel.app/api?username=athossampayo&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+
+<a href="https://github.com/athossampayo">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=athossampayo&show_icons=true&theme=radical" />
+</a>
+<a href="https://github.com/athossampayo">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=athossampayo&layout=compact" />
+</a>
