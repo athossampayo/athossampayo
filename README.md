@@ -29,10 +29,3 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=athossampayo&show_icons=true&theme=radical" />
 </a>
 <br>
-<br>
-
-----
-<br>
-<a href="https://github.com/athossampayo">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=athossampayo&layout=compact" />
-</a>
