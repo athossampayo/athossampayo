@@ -20,4 +20,4 @@
 
 
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=athossampayo&show_icons=true&theme=radical&locale=en" alt="athossampayo" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=athossampayo&show_icons=true&theme=radical&locale=en&&count_private=true" alt="athossampayo" /></p>
