@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Athos</h1>
-<h3 align="center">I'm passionate about technology 💻 and the open-source community, currently working as a Data Engineer but trying to learn a little bit of everything.</h3>
+<h3 align="center">I'm passionate about technology 💻 and the open-source community, currently working as a Analytics Engineer but trying to learn a little bit of everything.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=athossampayo&label=Profile%20views&color=0e75b6&style=plastic" alt="athossampayo" /> </p>
 
@@ -21,3 +21,8 @@
 
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=athossampayo&show_icons=true&theme=radical&locale=en&&count_private=true" alt="athossampayo" /></p>
+
+
+<h3 align="left">Holopins:</h3>
+
+[![@athossampayo's Holopin board](https://holopin.me/athossampayo)](https://holopin.io/@athossampayo)
